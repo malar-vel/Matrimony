@@ -1,0 +1,8 @@
+// yellow
+background: linear-gradient(33deg, #fbe39d 0%, #f9d876 100%);
+background: linear-gradient(33deg, #ffd774 0%, #fbc00e 100%);
+background: linear-gradient(33deg, #fbee0f 0%, #fbb80f 100%);
+background: linear-gradient(33deg, #f7d330 0%, #f6c324 100%);
+
+//pink & blue
+background: linear-gradient(33deg, #4C3260 0%, #E43480 100%);
